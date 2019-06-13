@@ -4,11 +4,11 @@ The Ticklist is a single page application that allows users to keep track of the
 
 ## Getting Started
 
-1. git clone the backend repository (https://github.com/jpsypek/mod-3-ticklist-api)
+1. git clone the backend repository (https://github.com/jpsypek/back-ticklist)
 2. run rails db:create to create the Postgres db
 3. run rails db:seed to seed the db
 4. run rails s to run the backend server
-5. git clone this repo
+5. git clone the frontend repository (https://github.com/jpsypek/front-ticklist)
 6. run lite-server to frontend server
 
 
