@@ -11,11 +11,6 @@ The Ticklist is a single page application that allows users to keep track of the
 5. git clone the frontend repository (https://github.com/jpsypek/front-ticklist)
 6. run lite-server to frontend server
 
-
-## Wireframe
-
-![screenshot](/Ticklist-Example.png)
-
 ## Video
 
 [Video Demo](https://youtu.be/soE7f4E0lUM)
